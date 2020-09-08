@@ -1,5 +1,8 @@
 # flashcard_app
-Learning tool to help students study vocabulary 
-Requires sqlite and kivymd
-*Work in progress UPDATED  9/5/2020
+Learning tool to help students memorize vocabulary *Work in progress UPDATED  9/8/2020
+* Requires sqlite and kivymd
+* What I'm learning from this
+* A better understanding of object oriented programming
+* practicing better code to query data from database
+
 
